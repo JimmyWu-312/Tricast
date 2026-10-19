@@ -8,9 +8,17 @@
 
 [Read the report](reports/Tricast.pdf) · [Explore the analysis](analysis/Tricast.Rmd) · [Reproduce the study](#reproduce-the-study)
 
-![R](https://img.shields.io/badge/Language-R-276DC3?logo=r&logoColor=white)
-![R Markdown](https://img.shields.io/badge/Analysis-R%20Markdown-497698)
-![Dataset](https://img.shields.io/badge/Dataset-Ames%20Housing-334155)
+<p align="center">
+  <a href="https://www.r-project.org/"><img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" title="R" height="48"></a>
+  &nbsp;&nbsp;
+  <a href="https://pkgs.rstudio.com/rmarkdown/"><img src="https://pkgs.rstudio.com/rmarkdown/reference/figures/logo.png" alt="R Markdown" title="R Markdown" height="48"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.tidyverse.org/"><img src="https://tidyverse.tidyverse.org/logo.png" alt="tidyverse" title="tidyverse" height="48"></a>
+  &nbsp;&nbsp;
+  <a href="https://paulbuerkner.com/brms/"><img src="https://paulbuerkner.com/brms/logo.svg" alt="brms" title="brms" height="48"></a>
+  &nbsp;&nbsp;
+  <a href="https://xgboost.ai/"><img src="https://xgboost.ai/images/logo/xgboost-logo-trimmed.png" alt="XGBoost" title="XGBoost" height="48"></a>
+</p>
 
 </div>
 

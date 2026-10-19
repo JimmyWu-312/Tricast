@@ -18,6 +18,8 @@
 
 ## Overview
 
+This independent project was completed by **Jimmy Wu** while a student at the **University of California, Santa Barbara (UCSB)**, working with **Dr. Dawn E. Holmes**.
+
 Tricast compares statistical and machine learning approaches to **housing price prediction**, asking how predictive accuracy, interpretability, and uncertainty change across modeling frameworks.
 
 Using the **Ames Housing dataset** with 2,930 records and 82 attributes, the analysis selects seven housing characteristics and studies ordinary and log-linear regression, ridge and lasso, Bayesian regression, random forests, and gradient boosting. The [36-page report](reports/Tricast.pdf) follows the process from exploratory analysis to residual diagnostics, posterior checks, and model comparison.
@@ -117,8 +119,10 @@ Tricast/
 - Log-scale and dollar-scale errors must be kept separate. Back-transforming log predictions also affects how dollar-scale results should be interpreted.
 - Feature importance and regression coefficients describe model associations; they do not establish causal effects of renovations or other interventions.
 
-## Author and data credit
+## Author, academic collaboration, and data credit
 
 **Jimmy Wu** · [GitHub](https://github.com/JimmyWu-312)
+
+**Academic collaboration:** Dr. Dawn E. Holmes, University of California, Santa Barbara.
 
 The report credits **De Cock (2011)** for the Ames Housing dataset. Full statistical and methodological references appear in the [report](reports/Tricast.pdf).
